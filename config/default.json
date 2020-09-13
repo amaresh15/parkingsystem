@@ -1,0 +1,9 @@
+{
+    "database": {
+        "name": "hackathon"
+    },
+    "githubAPI" : "http://localhost:3000/",
+    "gitLabAPI" : "https://gitlab.com/api/v4/",
+    "privateToken" : "84iU5qaXUi_FTZUn7Kcw",
+    "saltRounds" : 10
+}

@@ -1,0 +1,7 @@
+{
+    "database": {
+        "name": "hackathon"
+    },
+    "githubAPI" : "http://localhost:3000/",
+    "saltRounds" : 10
+}
